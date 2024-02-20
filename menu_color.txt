@@ -1,0 +1,14 @@
+		MENU SELECCION DE COLOR: ejem. 7e seria blanco amarillo
+
+	0 = Negro       8 = Gris
+	1 = Azul        9 = Azul claro
+	2 = Verde       A = Verde claro
+	3 = Aguamarina  B = Aguamarina claro
+	4 = Rojo        C = Rojo claro
+	5 = Purpura     D = Purpura claro
+	6 = Amarillo    E = Amarillo claro
+	7 = Blanco      F = Blanco brillante
+
+Elige la combinación de color , siendo el primera cifra el fondo y la segunda las letras el 07 original:
+
+	

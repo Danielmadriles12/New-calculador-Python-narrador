@@ -1,0 +1,25 @@
+					INTRODUCE TIPO DE OPERACION 
+
+				OPERACIONES ARIPMETICAS Y CAMBIO DE COLOR PANTALLA
+
+
+	A)- Sumar		 B)- Dividir				C)- Limpiar la pantalla
+	
+	D)- Restar		 E)- Perimetro y area rectangulo 	F)- Fecha y hora
+	
+	G)- Multiplicar		 H)- Para salir (EXIT)			I)- Hacer tabla de multiplicar
+
+	J)- Raiz cudrada 	 K)- Conversion decimal a binario 	L)- Conversion binario decimal
+
+	M)- Conversion hexadecimal a decimal    			N ) Cambio del color pantalla      		
+	            
+	O)- Area y perimetro circulo					P)- Potencia de un numero
+
+	Q)- Calcula la media, mediana, moda y varianza de varios numeros( Datos de estaditicas )
+	    
+	
+                    
+
+        Py)-  Introducete en el Python - https://danielcaraballo.es/
+	
+	PDF)- Si quieres descargar el programa de esta calculadora: 
